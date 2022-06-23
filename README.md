@@ -1,1 +1,7 @@
 # CS250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+The best way to interpret users needs is through communication with the user and the team. As we learned in the course, the Product Owner communicates with the users and stakeholders to create user stories. These are then developed into test case to ensure the product being developed satisfies these needs. Communication is key between team memebers such as the development team and the product owner to ensure there is a complete understanding of what the expectations of the user stories are. 
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When I develop programs the end user is always on my mind. What might they be looking for out of my product? Is another system to incorporate to make the user experience better? There are also a lot more question one would ask themselves while creating a program. When considering agile in my future development work I think of self motivation, being a great team member, and communication. I would incorporate all of this into my future work. 
+What does it mean to be a good team member in software development?
+As mentioned above a good team member holds themselves responsible, is self motivated, has good communication, and has a willingness to help others if needed.  
